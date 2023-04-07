@@ -1,0 +1,3 @@
+[submodule "ParsinServer"]
+	path = ParsinServer
+	url = https://github.com/ParsIOT/ParsinServer
